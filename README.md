@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Development projects using HTML, CSS, JS. 
 - 📫 How to reach me : My gmail: **raksharane18@gmail.com**
 
-[![Raksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=raksha-rane&show_icons=true&theme=trabsparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Raksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=raksha-rane&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 rakshaaaa/rakshaaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
