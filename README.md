@@ -5,7 +5,7 @@
 - 📫 How to reach me : My gmail: **raksharane18@gmail.com**
 
 <div align="center">
-  [![Raksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=raksha-rane&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+  [![Raksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=raksha-rane&show_icons=true&theme=midnight-purple)(https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raksha-rane)](https://github.com/anuraghazra/github-readme-stats)
  </div>
