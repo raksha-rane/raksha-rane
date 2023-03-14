@@ -6,10 +6,9 @@
 - Web Developer in Google Developers Student Club - LPU.
 
 
-![Raksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=raksha-rane&show_icons=true&theme=midnight-purple)
+<!--![Raksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=raksha-rane&show_icons=true&theme=midnight-purple)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raksha-rane)
-<!---
 rakshaaaa/rakshaaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
