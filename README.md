@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Raksha Rane
+# 👋 Hi, I’m Raksha Rane
 - 👀 I’m interested in Full Stack Software Development, Artificial Intelligence and FinTech.
 - 🌱 I’m currently learning DSA in python, JavaScript, and taking Meta's Professional Back-end Developer Certification Course 
 - 💞️ I’m looking to collaborate on Web Development projects using HTML, CSS, JS. 
