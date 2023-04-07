@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [TechNOcean (a website for my university's tech fest)](technocean.dev)
 
-- 🌱 I’m currently learning MongoDB, C++, Firebase
+- 🌱 I’m currently learning **MongoDB, C++, Firebase**
 
 - 📝 I regularly write articles on [https://medium.com/@penthusiastic](https://medium.com/@penthusiastic)
 
