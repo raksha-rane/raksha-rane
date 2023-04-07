@@ -35,10 +35,8 @@
 <p><a href="https://www.buymeacoffee.com/raksharane"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="raksharane" /></a></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raksha-rane&show_icons=true&locale=en&layout=compact" alt="raksha-rane" /></p>
-<br>
-<br>
-<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raksha-rane&show_icons=true&locale=en" alt="raksha-rane" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raksha-rane&show_icons=true&locale=en&layout=compact" alt="raksha-rane" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raksha-rane&" alt="raksha-rane" /></p>
