@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raksha Rane</h1>
 <h3 align="center">A passionate full stack software developer from India</h3>
 
-- 🔭 I’m currently working on [TechNOcean (a website for my university's tech fest)](technocean.dev)
+- 🔭 I’m currently working on [TechNOcean (a website for my university's tech fest)](technocean.dev).
 
 - 🌱 I’m currently learning **MongoDB, C++, Firebase**
 
