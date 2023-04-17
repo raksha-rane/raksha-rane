@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on *Netflix clone.*
 
-- 🌱 I’m currently learning **MongoDB, C++, Firebase**
+- 🌱 I’m currently learning **MongoDB, C++, Firebase and GraphQ**
 
 - 📝 I regularly write articles on [https://medium.com/@penthusiastic](https://medium.com/@penthusiastic)
 
