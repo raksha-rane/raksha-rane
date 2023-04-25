@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@penthusiastic](https://medium.com/@penthusiastic)
 
-- 💬 Ask me about **Python, Figma, C, HTML and Tailwind CSS**
+- 💬 Ask me about **Python, Figma, C, HTML and Tailwind CSS **
 
 - 📫 How to reach me **raksharane18@gmail.com**
 
