@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **raksharane18@gmail.com**
 
-- ⚡ Fun fact: **Taylor Swift is the music industry**
+- ⚡ Fun fact: **Taylor Swift is the music industry!**
 
 
 <h3 align="left">Connect with me:</h3>
