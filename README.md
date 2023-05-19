@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on *Netflix clone.*
 
-- 🌱 I’m currently learning **MongoDB, C++, Firebase, Tensorflow and GraphQL.**
+- 🌱 I’m currently contributing to **GSSOC'23 - GirlScript Summer of Code 2023.**
 
 - 📝 I regularly write articles on [https://medium.com/@penthusiastic](https://medium.com/@penthusiastic)
 
