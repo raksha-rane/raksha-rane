@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **raksharane18@gmail.com**
 
-- ⚡ Fun fact: **I love HBO's Silicon Valley and Gilfoyle is my favorite**
+- ⚡ Fun fact: **I love HBO's Silicon Valley and Gilfoyle is my favorite!**
 
 
 <h3 align="left">Connect with me:</h3>
