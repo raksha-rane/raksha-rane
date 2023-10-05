@@ -14,7 +14,7 @@
 - ⚡ Fun fact: **I love HBO's Silicon Valley and Gilfoyle is my favorite!**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/raksharane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raksharane" height="30" width="40" /></a>
 <a href="https://instagram.com/penthusiastic_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="penthusiastic_" height="30" width="40" /></a>
