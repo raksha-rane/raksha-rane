@@ -5,7 +5,7 @@
 
 - 🌱 I am serving as the **Women Techmakers Lead** at **Google Developer Student Club.**
 
-- 📝 I regularly write articles on [https://medium.com/@penthusiastic](https://medium.com/@penthusiastic)
+- 📝 I write on [https://medium.com/@penthusiastic](https://medium.com/@penthusiastic)
 
 - 💬 Ask me about **Web Development & Data Analysis.**
 
