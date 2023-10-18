@@ -7,7 +7,7 @@
 
 - 📝 I write on [https://medium.com/@penthusiastic](https://medium.com/@penthusiastic)
 
-- 💬 Ask me about **Web Development & Data Analysis.**
+- 💬 Ask me about **Web Development & Data Analysis**
 
 - 📫 How to reach me **raksharane18@gmail.com**
 
