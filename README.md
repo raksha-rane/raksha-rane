@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ***Sentimental analysis of Taylor Swift lyrics.***
 
-- 🌱 I am serving as the **Women Techmakers Lead** at **Google Developer Student Club.**
+- 🌱 I am serving as the **Women Techmakers Lead** and **Content Lead** at **Google Developer Student Club.**
 
 - 📝 I write on [https://medium.com/@penthusiastic](https://medium.com/@penthusiastic)
 
