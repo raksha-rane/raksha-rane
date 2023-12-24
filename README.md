@@ -1,11 +1,9 @@
 <h1 align="center">Hello World 👋, I'm Raksha Rane</h1>
 <h3 align="center">A passionate full stack software developer from India.</h3>
 
-- 🔭 I’m currently working on ***Sentimental analysis of Taylor Swift lyrics.***
+- 🔭 I’m currently working on ***Mobile App Development.***
 
 - 🌱 I am serving as the **Women Techmakers Lead** and **Content Lead** at **Google Developer Student Club.**
-
-- 📝 I write on [https://medium.com/@penthusiastic](https://medium.com/@penthusiastic)
 
 - 💬 Ask me about **Web Development, Testing and Data Analysis**
 
