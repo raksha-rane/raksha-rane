@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Raksha Rane</h1>
 <h3 align="center">A passionate full stack software developer from India</h3>
 
-- 🔭 I’m currently working on ***Mobile App Development***
+- 🔭 I’m currently working on ***Mobile App Development.***
 
 - 🌱 I am serving as the **Women Techmakers Lead** and **Content Lead** at **Google Developer Student Club.**
 
