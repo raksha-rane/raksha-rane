@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ***Mobile App Development.***
 
-- 🌱 I am serving as the **Women Techmakers Lead** and **Content Lead** at **Google Developer Student Club**
+- 🌱 I am serving as the **Women Techmakers Lead** and **Content Lead** at **Google Developer Student Club.**
 
 - 💬 Ask me about **Web Development and Data Analysis.**
 
