@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on ***NLP-based projects.***
 
-- 🌱 I am serving as the **Women Techmakers Lead** and **Content Lead** at **Google Developer Student Club.**
-
 - 💬 Ask me about **Web Development and Data Analysis.**
 
 - 📫 How to reach me **raksharane18@gmail.com**
