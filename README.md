@@ -17,7 +17,7 @@ Hi, I’m Raksha, a full stack developer who enjoys building things that actuall
     </tr>
     <tr>
       <td align="center">
-        <img src="[https://streak-stats.demolab.com/?user=raksha-rane&theme=rose&hide_border=false](https://github-readme-stats.shion.dev/api?username=raksha-rane&theme=rose&hide_border=false&include_all_commits=true&count_private=true)" />
+        <img src="https://github-readme-stats.shion.dev/api?username=raksha-rane&theme=rose&hide_border=false&include_all_commits=true&count_private=true" />
       </td>
       <td align="center">
         <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=raksha-rane&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
@@ -26,7 +26,6 @@ Hi, I’m Raksha, a full stack developer who enjoys building things that actuall
   </table>
 
 </div>
-
 
   ## You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/raksharane) 
