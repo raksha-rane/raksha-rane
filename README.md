@@ -9,11 +9,21 @@ Hi, I’m Raksha, a full stack developer who enjoys building things that actuall
 
 <div align="center">
 
-  <img src="https://github-readme-stats.shion.dev/api?username=raksha-rane&theme=rose&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-
-  <img src="https://streak-stats.demolab.com/?user=raksha-rane&theme=rose&hide_border=false" /><br/>
-
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=raksha-rane&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <table>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.shion.dev/api?username=raksha-rane&theme=rose&hide_border=false&include_all_commits=true&count_private=true" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://streak-stats.demolab.com/?user=raksha-rane&theme=rose&hide_border=false" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=raksha-rane&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+      </td>
+    </tr>
+  </table>
 
 </div>
 
