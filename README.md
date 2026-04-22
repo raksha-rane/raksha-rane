@@ -12,12 +12,12 @@ Hi, I’m Raksha, a full stack developer who enjoys building things that actuall
   <table>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.shion.dev/api?username=raksha-rane&theme=rose&hide_border=false&include_all_commits=true&count_private=true" />
+        <img src="https://streak-stats.demolab.com/?user=raksha-rane&theme=rose&hide_border=false" />
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://streak-stats.demolab.com/?user=raksha-rane&theme=rose&hide_border=false" />
+        <img src="[https://streak-stats.demolab.com/?user=raksha-rane&theme=rose&hide_border=false](https://github-readme-stats.shion.dev/api?username=raksha-rane&theme=rose&hide_border=false&include_all_commits=true&count_private=true)" />
       </td>
       <td align="center">
         <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=raksha-rane&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
