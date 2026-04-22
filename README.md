@@ -9,11 +9,6 @@ Hi, I’m Raksha, a full stack developer who enjoys building things that actuall
 ![](https://streak-stats.demolab.com/?user=raksha-rane&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=raksha-rane&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=raksha-rane&theme=rose&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=raksha-rane&icon=0&color=10)](https://visitcount.itsvg.in)
 
   ## You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/raksharane) 
